@@ -2,7 +2,6 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-dylan's note: my personal neetcode 150 journey. suffering caught in real time
 ---
 
 ## What is this?
